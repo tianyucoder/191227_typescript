@@ -1,1 +1,1 @@
-import './03_interface/interface'
+import './04_class/class_test4'
