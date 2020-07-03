@@ -1,1 +1,1 @@
-import './04_class/class_test4'
+import './06_generic/generic'
